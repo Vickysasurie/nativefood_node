@@ -17,7 +17,7 @@ var cors = require('cors');
 
 var app = express();
 
-var port =process.env.PORT || 3001;;
+var port =process.env.PORT || 3001;
 var HOST_NAME = 'localhost';
 var DATABASE_NAME = 'react_food';
 
